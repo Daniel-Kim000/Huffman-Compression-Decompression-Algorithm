@@ -73,3 +73,4 @@ Dependencies:
 Standard Java libraries only (Scanner, File, IOException)
 Custom methods: huffmanTree(), dehuff(), huffmanize()
 TreeNode class for Huffman tree structure
+
